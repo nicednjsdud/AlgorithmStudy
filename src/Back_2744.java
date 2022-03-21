@@ -16,11 +16,11 @@ public class Back_2744 {
         for(int i=0;i<str.length();i++){
             if(65<=str.charAt(i) && str.charAt(i)<=90){
                 arr[i]=(char)(str.charAt(i)+32);
-                continue;
+
             }
             else if(97<=str.charAt(i) && str.charAt(i)<=122){
                 arr[i]=(char)(str.charAt(i)-32);
-                continue;
+
             }
         }
         //then
