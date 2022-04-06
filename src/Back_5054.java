@@ -6,20 +6,20 @@ public class Back_5054 {
 
         Scanner sc = new Scanner(System.in);
         int test_count=sc.nextInt();            // 테스트 개수 입력
-        int arr[][] = new int[test_count][50];    // 상점 거리 받기
-        for(int i=0;i<test_count;i++){
+        while(test_count!=0){
             int store_count=sc.nextInt();       // 상점 개수 입력
-            for(int j=0;j<store_count;j++){
-                arr[i][j]=sc.nextInt();         // 상점 거리 입력
+            int sum =0;
+            int arr[]=new int[store_count];     // 상점 개수 거리입력
+            for(int i=0;i<store_count;i++){
+                arr[i]=sc.nextInt();
             }
+            Arrays.sort(arr);                   // 오른 차순 정렬
+
+            sum=(arr[arr.length-1]-arr[0])*2;
+            System.out.println(sum);
+            test_count--;
+
         }
-        Arrays.sort(arr);                       // 오른 차순 정렬
-        int count =0;
-        for(int i=0;i<test_count;i++){
-            for(int j=0;j<arr[i].length;j++){
-                 count = (arr[i][arr[i].length-1]-arr[i][0])/2;
-            }
-            System.out.println(count);
-        }
+        sc.close();
     }
 }
