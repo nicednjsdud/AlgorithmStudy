@@ -1,3 +1,5 @@
+package src;
+
 import java.util.Scanner;
 
 /*N으로 나누었을 때 나머지와 몫이 같은 모든 자연수의 합을 구하는 프로그램을 작성하시오.
