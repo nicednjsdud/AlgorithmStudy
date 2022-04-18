@@ -5,62 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a9135d2-9b2b-4dac-ac20-b381e3748ac3" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Back_6322.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Back_6359.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgorithmStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AlgorithmStudy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/AlgorithmStudy.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_1731.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_1834.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_2309.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_2355.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_2386.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_2475.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_2476.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_2484.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_2490.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_2566.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_2576.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_2743.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_2744.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_2754.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_2789.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_2798.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_2822.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_2846.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_2857.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_2947.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_2953.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_3046.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_3047.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_4447.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_4458.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_4470.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_4493.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_4504.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_4880.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_5032.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_5032_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_5054.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_5063.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_5597.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_5613.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_5704.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_5717.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/Back_5988.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/production/AlgorithmStudy/src.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Back_6376.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,26 +54,11 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
-  <component name="RunManager" selected="애플리케이션.Back_6359">
+  <component name="RunManager" selected="애플리케이션.Back_6376">
     <configuration name="Back_1731" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Back_1731" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Back_5988 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="11" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="src.Back_5988" />
-      <module name="AlgorithmStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -153,13 +84,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Back_6376" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Back_6376" />
+      <module name="AlgorithmStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Back_6376" />
         <item itemvalue="애플리케이션.Back_6359" />
         <item itemvalue="애플리케이션.Back_6322" />
         <item itemvalue="애플리케이션.Back_1731" />
         <item itemvalue="애플리케이션.Back_5988 (2)" />
-        <item itemvalue="애플리케이션.Back_5988 (1)" />
       </list>
     </recent_temporary>
   </component>
