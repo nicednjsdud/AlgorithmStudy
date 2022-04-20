@@ -16,24 +16,19 @@ public class Back_2355 {
 
         // 2. A, B중 더큰수 찾기
 
-        // 2.1 A가 B보다 클때
-        if(A>B){
+        // 2.1 A가 B보다 크거나같을때
+        if(A>=B){
 
-            for(long i=B;i<=A;i++){
-              sum+=i;
-            }
+           sum= (A+B)*(A-B+1) / 2;
         }
         // 2.2 B가 A보다 클때
         else if(A<B){
 
-            for(long j=A;j<=B;j++){
-                sum+=j;
-            }
+           sum= (B+A)*(B-A+1) / 2;
+
         }
-        // 2.3 같을 때
-        else{
-            sum=A+B;
-        }
+      
+        
         System.out.println(sum);
         sc.close();
 
