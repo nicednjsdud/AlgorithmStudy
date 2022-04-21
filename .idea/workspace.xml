@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a9135d2-9b2b-4dac-ac20-b381e3748ac3" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Back_9094.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Back_9469.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Back_9501.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Back_2355.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Back_2355.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/out/bin/Back_2355.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/out/bin/Back_2355.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,14 +58,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
-  <component name="RunManager" selected="애플리케이션.Back_9469">
-    <configuration name="Back_6376" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Back_6376" />
-      <module name="AlgorithmStudy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.Back_9501">
     <configuration name="Back_7510" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Back_7510" />
       <module name="AlgorithmStudy" />
@@ -97,13 +87,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Back_9501" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Back_9501" />
+      <module name="AlgorithmStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Back_9501" />
         <item itemvalue="애플리케이션.Back_9469" />
         <item itemvalue="애플리케이션.Back_9094" />
         <item itemvalue="애플리케이션.Back_9076" />
         <item itemvalue="애플리케이션.Back_7510" />
-        <item itemvalue="애플리케이션.Back_6376" />
       </list>
     </recent_temporary>
   </component>
@@ -132,5 +129,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.NoSuchElementException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
