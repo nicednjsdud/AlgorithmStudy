@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a9135d2-9b2b-4dac-ac20-b381e3748ac3" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Back_10987.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Back_11006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Back_11320.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Back_11586.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Back_11721.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,14 +59,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
-  <component name="RunManager" selected="애플리케이션.Back_11320">
-    <configuration name="Back_10811" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Back_10811" />
-      <module name="AlgorithmStudy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.Back_11586">
     <configuration name="Back_10872" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Back_10872" />
       <module name="AlgorithmStudy" />
@@ -96,13 +88,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Back_11586" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Back_11586" />
+      <module name="AlgorithmStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Back_11586" />
         <item itemvalue="애플리케이션.Back_11320" />
         <item itemvalue="애플리케이션.Back_11006" />
         <item itemvalue="애플리케이션.Back_10987" />
         <item itemvalue="애플리케이션.Back_10872" />
-        <item itemvalue="애플리케이션.Back_10811" />
       </list>
     </recent_temporary>
   </component>
