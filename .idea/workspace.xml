@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a9135d2-9b2b-4dac-ac20-b381e3748ac3" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Back_10844.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Back_11057.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Back_2193.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Back_9465.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Back_10844.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Back_10844.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,14 +61,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
-  <component name="RunManager" selected="애플리케이션.Back_9095">
-    <configuration name="Back_10992" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Back_10992" />
-      <module name="AlgorithmStudy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="애플리케이션.Back_2193">
     <configuration name="Back_11726" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Back_11726" />
       <module name="AlgorithmStudy" />
@@ -87,6 +83,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Back_2193" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Back_2193" />
+      <module name="AlgorithmStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Back_9095" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Back_9095" />
       <module name="AlgorithmStudy" />
@@ -96,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Back_2193" />
         <item itemvalue="애플리케이션.Back_9095" />
         <item itemvalue="애플리케이션.Back_11727" />
         <item itemvalue="애플리케이션.Back_11726" />
         <item itemvalue="애플리케이션.Back_1463" />
-        <item itemvalue="애플리케이션.Back_10992" />
       </list>
     </recent_temporary>
   </component>
