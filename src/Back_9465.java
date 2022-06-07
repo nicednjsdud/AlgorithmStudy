@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-// 특정 n번 째 dp값을 채우기 위해선, 한 칸 또는 두 칸 뒤의 대각선을 고려해주면 된다. 
+// 특정 n번 째 dp값을 채우기 위해선, 한 칸 또는 두 칸 뒤의 대각선을 고려해주면 된다.
 // 점화식은 dp[0][j]=Math.max(dp[1][j-1],dp[1][j-2])+sticker[0][j];
 //        dp[1][j]=Math.max(dp[0][j-1],dp[0][j-2])+sticker[1][j];
 public class Back_9465 {
