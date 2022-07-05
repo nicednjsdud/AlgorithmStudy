@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a9135d2-9b2b-4dac-ac20-b381e3748ac3" name="변경" comment="변경">
-      <change afterPath="$PROJECT_DIR$/src/Back_10828.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Back_9012.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,15 +46,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/jeong-won-yeong/AlgorithmStudy&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.JavaFX&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/jeong-won-yeong/Documents/AlgorithmStudy",
+    "settings.editor.selected.configurable": "preferences.JavaFX"
   }
-}</component>
-  <component name="RunManager" selected="애플리케이션.Back_10828">
+}]]></component>
+  <component name="RunManager" selected="애플리케이션.Back_9012">
     <configuration name="Back_10828" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Back_10828" />
       <module name="AlgorithmStudy" />
@@ -64,13 +64,6 @@
     </configuration>
     <configuration name="Back_11004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Back_11004" />
-      <module name="AlgorithmStudy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Back_11055" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Back_11055" />
       <module name="AlgorithmStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,8 +83,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Back_9012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Back_9012" />
+      <module name="AlgorithmStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Back_9012" />
         <item itemvalue="애플리케이션.Back_10828" />
         <item itemvalue="애플리케이션.Back_11004" />
         <item itemvalue="애플리케이션.Back_2751" />
