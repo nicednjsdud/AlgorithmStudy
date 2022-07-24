@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a9135d2-9b2b-4dac-ac20-b381e3748ac3" name="변경" comment="변경">
-      <change afterPath="$PROJECT_DIR$/src/Back_11005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Back_1212.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,9 +54,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.JavaFX&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.Back_9613">
-    <configuration name="Back_1168" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Back_1168" />
+  <component name="RunManager" selected="애플리케이션.Back_1212">
+    <configuration name="Back_1212" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Back_1212" />
       <module name="AlgorithmStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Back_1212" />
         <item itemvalue="애플리케이션.Back_9613" />
         <item itemvalue="애플리케이션.Back_1850" />
         <item itemvalue="애플리케이션.Back_1934" />
         <item itemvalue="애플리케이션.Back_2609" />
-        <item itemvalue="애플리케이션.Back_1168" />
       </list>
     </recent_temporary>
   </component>
