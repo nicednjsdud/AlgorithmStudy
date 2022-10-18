@@ -15,7 +15,7 @@ public class Back_2941 {
                 str = str.replace(cro_alphabet[i], "@");
             }
         }
-        
+
         // then
         System.out.println(str.length());
         br.close();
