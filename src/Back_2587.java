@@ -17,7 +17,7 @@ public class Back_2587 {
         // when
         Arrays.sort(arr);
         // then
-        System.out.println(sum/5);
+        System.out.println(sum / 5);
         System.out.println(arr[2]);
     }
 }
