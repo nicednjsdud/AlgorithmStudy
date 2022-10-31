@@ -12,7 +12,7 @@ public class Back_1427 {
         String str = br.readLine();
         Integer arr[] = new Integer[str.length()];
         // when
-        for(int i=0;i<str.length();i++){
+        for (int i = 0; i < str.length(); i++) {
             arr[i] = str.charAt(i) - '0';
         }
         Arrays.sort(arr, Collections.reverseOrder());
