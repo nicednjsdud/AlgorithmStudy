@@ -15,13 +15,14 @@ public class Back_10431 {
             st = new StringTokenizer(br.readLine(), " ");
             int testNum = Integer.parseInt(st.nextToken());
             int[] arr = new int[20];
+
             sb.append(testNum).append(" ");
             int count = 0;
             for (int j = 0; j < arr.length; j++) {
-                arr[i] = Integer.parseInt(st.nextToken());
+                arr[j] = Integer.parseInt(st.nextToken());
             }
             for (int j = 0; j < arr.length; j++) {
-                for (int k = 0; k < i; k++) {
+                for (int k = 0; k < j; k++) {
                     if (arr[k] > arr[j]) {
                         count++;
                     }
