@@ -8,21 +8,18 @@ public class Back_1515 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String str = br.readLine();
         int pointer = 0;
-        int ten_pointer = 0;
+        int count = 0;
 
-        for (int i = 0; i < str.length(); i++) {
-
-            int num = Integer.parseInt(String.valueOf(str.charAt(i)));
-            if (str.length() - 1 > i) {
-                if (pointer >= num) {
-                    pointer = 0;
-                    ten_pointer++;
-                } else {
-                    pointer = num - pointer;
+        while(count++ <= 30000){
+            String temp = String.valueOf(count);
+            for(int i = 0 ; i< temp.length(); i++){
+                if(temp.charAt(i) == str.charAt(pointer)){
+                    pointer ++;
                 }
-            } else {
-                num = num + (ten_pointer * 10);
-                System.out.println(num);
+                if(pointer == str.length()){
+                    System.out.println(count);
+                    return;
+                }
             }
         }
         br.close();
