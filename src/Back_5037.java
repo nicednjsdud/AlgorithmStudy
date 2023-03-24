@@ -11,36 +11,45 @@ public class Back_5037 {
         StringTokenizer st;
         boolean checkFlag = true;
         StringBuilder sb = new StringBuilder();
-        while (!checkFlag) {
+        while (checkFlag) {
            st = new StringTokenizer(br.readLine(), " ");
+
            int first_num = Integer.parseInt(st.nextToken());
            int second_num = Integer.parseInt(st.nextToken());
            int third_num = Integer.parseInt(st.nextToken());
-
-           if(first_num == 0 && second_num == 0 && third_num == 0){
-               checkFlag = false;
-               return;
+           int max = Math.max(first_num,(Math.max(second_num,third_num)));
+            if(first_num == 0 && second_num == 0 && third_num == 0){
+                checkFlag = false;
+            }
+            else{
+                if(max < (first_num + second_num + third_num - max)){
+                    if(first_num == second_num){
+                        if(second_num == third_num){
+                            sb.append("Equilateral").append("\n");
+                        }
+                        else{
+                            sb.append("Isosceles").append("\n");
+                        }
+                    }
+                    else{
+                        if(second_num == third_num){
+                            sb.append("Isosceles").append("\n");
+                        }
+                        else if(first_num == third_num){
+                            sb.append("Isosceles").append("\n");
+                        }
+                        else{
+                            sb.append("Scalene").append("\n");
+                        }
+                    }
+                }
+                else{
+                    sb.append("Invalid").append("\n");
+                }
             }
 
-           if(first_num == second_num){
-               if(second_num == third_num){
-                   sb.append("Equilateral").append("\n");
-               }
-               else{
-                   sb.append("Isosceles").append("\n");
-               }
-           }
-           else{
-               if(second_num == third_num){
-                   sb.append("Isosceles").append("\n");
-               }
-               else if(first_num == third_num){
-                   sb.append("Isosceles").append("\n");
-               }
-               else{
-                   sb.append("Isosceles").append("\n");
-               }
-           }
         }
+        System.out.println(sb);
+        br.close();
     }
 }
