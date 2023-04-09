@@ -30,7 +30,7 @@ public class Back_20125 {
 
                 if (!headCheck) {
                     if (str.charAt(j) == '*') {
-                        heart = (i + 2) + " " + (j + 1);    // heart.charAt(2) = 심장
+                        heart = (i + 2) + " " + (j + 1)+ " ";    // heart.charAt(2) = 심장
                     }
                 }
                 if (headCheck && !upBodyCheckWithArm) {
@@ -42,8 +42,7 @@ public class Back_20125 {
                     }
                     upBodyCheck = true;
                 }
-                if (headCheck && armCheck) {     // 허리 및 다리 체크
-                    upBodyCheck = false;
+                if (headCheck && armCheck) {     // 허리 및 다리 체크;
                     if (str.charAt(j) == '*') {
                         start_count++;
                     }
@@ -58,7 +57,7 @@ public class Back_20125 {
             if (!heart.equals("")) {          // 머리 체크 완료
                 headCheck = true;
             }
-            if (upBodyCheck) {
+            if (upBodyCheck && !armCheck) {
                 armCheck = true;
                 leftArm = Integer.parseInt(String.valueOf(heart.charAt(2))) - startArm;   // 왼팔 길이
                 rightArm = start_count - 1 - leftArm;   // 오른팔 길이
@@ -78,15 +77,16 @@ public class Back_20125 {
                         leftLeg++;
                     }
                 }
-                if (!legCheck && start_count == 1) {
-                    waist++;                       // 허리 길이
+                else{
+                    if(start_count == 1){
+                        waist ++;
+                    }
+                    else{
+                        legCheck = true;                // 다리 시작
+                        rightLeg++;
+                        leftLeg++;
+                    }
                 }
-                if (!legCheck && start_count == 2) {
-                    legCheck = true;                // 다리 시작
-                    rightLeg++;
-                    leftLeg++;
-                }
-
             }
         }
         System.out.println(heart);
