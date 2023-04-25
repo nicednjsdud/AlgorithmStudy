@@ -21,6 +21,7 @@ public class Back_10815 {
         }
 
         for (int i = 0; i < M; i++) {
+
             System.out.print(binarySearch(arr, check[i]));
         }
     }

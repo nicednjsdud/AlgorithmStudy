@@ -2,50 +2,58 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
+import java.util.Scanner;
 import java.util.StringTokenizer;
 
 public class Back_10816 {
     public static void main(String[] args) throws IOException {
 
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st;
-        int N = Integer.parseInt(br.readLine());
+        Scanner sc = new Scanner(System.in);
+        StringBuilder sb = new StringBuilder();
+        int N = sc.nextInt();
         int arr[] = new int[N];
 
-        st = new StringTokenizer(br.readLine());
         for (int i = 0; i < N; i++) {
-            arr[i] = Integer.parseInt(st.nextToken());
+            arr[i] = sc.nextInt();
         }
         Arrays.sort(arr);
-        int M = Integer.parseInt(br.readLine());
-        int check[] = new int[M];
+        int M = sc.nextInt();
 
-        st = new StringTokenizer(br.readLine());
         for (int i = 0; i < M; i++) {
-            check[i] = Integer.parseInt(st.nextToken());
+            int check = sc.nextInt();
+            sb.append((lowerBinarySearch(arr, check) - upperBinarySearch(arr, check))).append(" ");
         }
-
-        for (int i = 0; i < N; i++) {
-            System.out.println(binarySearch(arr, check[i]));
-        }
+        System.out.println(sb);
+        sc.close();
     }
 
-    private static int binarySearch(int[] arr, int check) {
+    private static int upperBinarySearch(int[] arr, int check) {
         int start = 0;
         int mid = 0;
-        int end = arr.length - 1;
-        int count = 0;
-        while (start <= end) {
+        int end = arr.length;
+        while (start < end) {
             mid = (end + start) / 2;
-            if (arr[mid] == check){
-                count ++;
-
+            if (arr[mid] >= check) {
+                end = mid;
+            } else {
+                start = mid + 1;
             }
-            else if(arr[mid] > check) end = mid -1;
-            else if(arr[mid] <)
-
         }
+        return start;
+    }
 
-        return 0;
+    private static int lowerBinarySearch(int[] arr, int check) {
+        int start = 0;
+        int mid = 0;
+        int end = arr.length;
+        while (start < end) {
+            mid = (end + start) / 2;
+            if (arr[mid] > check) {
+                end = mid;
+            } else {
+                start = mid + 1;
+            }
+        }
+        return start;
     }
 }
