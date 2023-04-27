@@ -20,7 +20,7 @@ public class Back_16401 {
         }
         Arrays.sort(arr);
 
-        long start = 0;
+        long start = 1;
         long end = arr[N - 1];
         while (start <= end) {
             int count = 0;
@@ -37,7 +37,7 @@ public class Back_16401 {
                 end = mid - 1;
             }
         }
-        br.close();
         System.out.println(result);
+        br.close();
     }
 }
