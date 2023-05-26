@@ -15,27 +15,13 @@ public class Back_1009 {
             st = new StringTokenizer(br.readLine());
             int a = Integer.parseInt(st.nextToken());
             int b = Integer.parseInt(st.nextToken());
-            long sum = a;
-            boolean check = true;
-            int arr[] = new int[100];
-            for (int j = 0; j < b; j++) {
-                sum = a * sum;
-                String str = sum + "";
-                if (arr.length == 0) {
-                    arr[0] = str.charAt(str.length() - 1);
-                } else {
-                    if(check){
-                        for (int k = 0; k < arr.length; k++) {
-                            if(arr[k] == str.charAt(str.length()-1)){
-                                check = false;
-                            }
-                        }
-                        arr[j] = str.charAt(str.length()-1);
-                    }
-                }
+            int result = 1;
+
+            for (int j = 1; j <= b; j++) {
+                result = result * a % 10;
             }
-            int position = b % arr.length;
-            sb.append(arr[position]).append("\n");
+            result = result == 0 ? 10 : result;
+            sb.append(result).append("\n");
         }
         System.out.println(sb);
         br.close();
