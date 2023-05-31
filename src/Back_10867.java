@@ -8,7 +8,7 @@ public class Back_10867 {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int N = Integer.parseInt(br.readLine());
-        
+
         StringTokenizer st = new StringTokenizer(br.readLine());
         StringBuilder sb = new StringBuilder();
         HashSet<Integer> hashSet = new HashSet<>();
