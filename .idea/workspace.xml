@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a9135d2-9b2b-4dac-ac20-b381e3748ac3" name="변경" comment="변경">
-      <change afterPath="$PROJECT_DIR$/src/Back_1182.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Back_14889.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Back_15686.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +57,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.JavaFX&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.Back_14889">
+  <component name="RunManager" selected="애플리케이션.Back_15686">
     <configuration name="Back_1182" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Back_1182" />
       <module name="AlgorithmStudy" />
@@ -68,6 +67,13 @@
     </configuration>
     <configuration name="Back_14889" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Back_14889" />
+      <module name="AlgorithmStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Back_15686" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Back_15686" />
       <module name="AlgorithmStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,20 +93,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Back_6603" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Back_6603" />
-      <module name="AlgorithmStudy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Back_15686" />
         <item itemvalue="애플리케이션.Back_14889" />
         <item itemvalue="애플리케이션.Back_1182" />
         <item itemvalue="애플리케이션.Back_5430" />
         <item itemvalue="애플리케이션.Back_5543" />
-        <item itemvalue="애플리케이션.Back_6603" />
       </list>
     </recent_temporary>
   </component>
