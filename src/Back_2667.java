@@ -30,6 +30,7 @@ public class Back_2667 {
 
             for (int j = 0; j < N; j++) {
                 arr[i][j] = Character.getNumericValue(str.charAt(j));
+                visited[i][j] = false;
             }
         }
 
@@ -43,13 +44,14 @@ public class Back_2667 {
                     list.add(count);
                 }
             }
-            Collections.sort(list);
-            System.out.println(number);
-            for (Integer integer : list) {
-                System.out.println(integer);
-            }
-            br.close();
+
         }
+        Collections.sort(list);
+        System.out.println(number);
+        for (Integer integer : list) {
+            System.out.println(integer);
+        }
+        br.close();
     }
 
     private static void DFS(int x, int y) {
@@ -62,9 +64,6 @@ public class Back_2667 {
             nowY = dirY[i] + y;
 
             if (nowX >= 0 && nowX < N && nowY >= 0 && nowY < N && visited[nowX][nowY] == false && arr[nowX][nowY] == 1) {
-                visited[nowX][nowY] = true;
-                arr[nowX][nowY] = number;
-
                 DFS(nowX, nowY);
             }
         }
