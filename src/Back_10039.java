@@ -8,6 +8,9 @@ public class Back_10039 {
         int sum = 0;
         for (int i = 0; i < 5; i++) {
             int num = Integer.parseInt(br.readLine());
+            if(num < 40){
+                num = 40;
+            }
             sum += num;
         }
         System.out.println(sum/5);
