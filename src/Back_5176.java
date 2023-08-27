@@ -13,19 +13,19 @@ public class Back_5176 {
         StringTokenizer st;
 
         for (int i = 0; i < K; i++) {
-            st = new StringTokenizer(br.readLine()," ");
+            st = new StringTokenizer(br.readLine(), " ");
             int P = Integer.parseInt(st.nextToken());
             int M = Integer.parseInt(st.nextToken());
 
-            int[] arr = new int[P];
+            int[] arr = new int[M + 1];
             for (int j = 0; j < arr.length; j++) {
                 arr[j] = 1;
             }
             int count = 0;
-            for (int j = 0; j < arr.length; j++) {
-                int
-                if (arr[j] == 1) {
-                    arr[j] = 0;
+            for (int j = 0; j < P; j++) {
+                int num = Integer.parseInt(br.readLine());
+                if (arr[num] == 1) {
+                    arr[num] = 0;
                 }
                 else{
                     count ++;
