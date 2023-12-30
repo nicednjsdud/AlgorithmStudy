@@ -5,22 +5,20 @@ import java.io.InputStreamReader;
 public class Back_11966 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int N = Integer.parseInt(br.readLine());
+        Long N = Long.parseLong(br.readLine());
+        if(N == 1){
+            System.out.println(1);
+            return;
+        }
+        while(N!=1){
+            if(N%2==1){
+                System.out.println(0);
+                return;
+            }
+            N /= 2;
+            System.out.println(1);
+        }
 
-        if(N % 2 == 0){
-            while(N % 2 == 0){
-                N /= 2;
-            }
-            if(N == 1){
-                System.out.println("1");
-            }
-            else{
-                System.out.println("0");
-            }
-        }
-        else{
-            System.out.println("0");
-        }
         br.close();
     }
 }
