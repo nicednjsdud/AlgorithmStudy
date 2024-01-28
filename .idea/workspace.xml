@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a9135d2-9b2b-4dac-ac20-b381e3748ac3" name="변경" comment="변경">
-      <change afterPath="$PROJECT_DIR$/src/Back_2295_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Back_5635.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Back_2295.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Back_2295.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,31 +49,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Back_10816_1.executor": "Run",
-    "Application.Back_11966.executor": "Run",
-    "Application.Back_1654_2.executor": "Run",
-    "Application.Back_1920_1.executor": "Run",
-    "Application.Back_2295.executor": "Run",
-    "Application.Back_2295_2.executor": "Run",
-    "Application.Back_2845.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/jeong-won-yeong/Documents/AlgorithmStudy",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "프로젝트",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Back_10816_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Back_11966.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Back_1654_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Back_1920_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Back_2295.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Back_2295_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Back_2845.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jeong-won-yeong/Documents/AlgorithmStudy&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Back_2295">
     <configuration name="Back_10816_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Back_10816_1" />
@@ -148,7 +147,10 @@
       <workItem from="1704889545830" duration="1774000" />
       <workItem from="1705496787754" duration="6668000" />
       <workItem from="1705841047517" duration="732000" />
-      <workItem from="1706011376741" duration="5840000" />
+      <workItem from="1706011376741" duration="6777000" />
+      <workItem from="1706095061657" duration="598000" />
+      <workItem from="1706187480073" duration="600000" />
+      <workItem from="1706451278628" duration="742000" />
     </task>
     <servers />
   </component>
