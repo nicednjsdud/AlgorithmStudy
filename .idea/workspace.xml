@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a9135d2-9b2b-4dac-ac20-b381e3748ac3" name="변경" comment="변경">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Back_15688.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +73,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Back_2295">
+  <component name="RunManager" selected="Application.Back_15688">
     <configuration name="Back_10816_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Back_10816_1" />
       <module name="AlgorithmStudy" />
@@ -81,15 +81,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Back_1654_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Back_1654_2" />
+    <configuration name="Back_15688" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Back_15688" />
       <module name="AlgorithmStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Back_1920_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Back_1920_1" />
+    <configuration name="Back_1654_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Back_1654_2" />
       <module name="AlgorithmStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Back_15688" />
         <item itemvalue="Application.Back_2295" />
         <item itemvalue="Application.Back_2295_2" />
         <item itemvalue="Application.Back_1654_2" />
         <item itemvalue="Application.Back_10816_1" />
-        <item itemvalue="Application.Back_1920_1" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +151,7 @@
       <workItem from="1706187480073" duration="600000" />
       <workItem from="1706451278628" duration="1442000" />
       <workItem from="1706625212428" duration="1198000" />
+      <workItem from="1707656880428" duration="299000" />
     </task>
     <servers />
   </component>
