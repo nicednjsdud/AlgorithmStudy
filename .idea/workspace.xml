@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a9135d2-9b2b-4dac-ac20-b381e3748ac3" name="변경" comment="변경">
-      <change afterPath="$PROJECT_DIR$/src/Back_10799_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Back_2504.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Back_1926_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +58,7 @@
     "Application.Back_15688.executor": "Run",
     "Application.Back_1654_2.executor": "Run",
     "Application.Back_1920_1.executor": "Run",
+    "Application.Back_1926_2.executor": "Run",
     "Application.Back_2295.executor": "Run",
     "Application.Back_2295_2.executor": "Run",
     "Application.Back_2504.executor": "Run",
@@ -66,6 +67,7 @@
     "Application.Back_array_test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/jeong-won-yeong/Documents/AlgorithmStudy",
     "node.js.detected.package.eslint": "true",
@@ -80,7 +82,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Back_2504">
+  <component name="RunManager" selected="Application.Back_1926_2">
     <configuration name="Back_10799_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Back_10799_2" />
       <module name="AlgorithmStudy" />
@@ -88,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Back_15688" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Back_15688" />
+    <configuration name="Back_1926_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Back_1926_2" />
       <module name="AlgorithmStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -118,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Back_1926_2" />
         <item itemvalue="Application.Back_2504" />
         <item itemvalue="Application.Back_10799_2" />
         <item itemvalue="Application.Back_5648" />
         <item itemvalue="Application.Back_array_test" />
-        <item itemvalue="Application.Back_15688" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +170,8 @@
       <workItem from="1708430211846" duration="660000" />
       <workItem from="1708693023820" duration="599000" />
       <workItem from="1708738847089" duration="602000" />
-      <workItem from="1710640226455" duration="964000" />
+      <workItem from="1710640226455" duration="1564000" />
+      <workItem from="1710650955686" duration="782000" />
     </task>
     <servers />
   </component>
