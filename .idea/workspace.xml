@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a9135d2-9b2b-4dac-ac20-b381e3748ac3" name="변경" comment="변경">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Back_1926_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Back_1629.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,10 +51,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Back_1003.executor": "Run",
     "Application.Back_10799_2.executor": "Run",
     "Application.Back_10816_1.executor": "Run",
     "Application.Back_11966.executor": "Run",
     "Application.Back_15688.executor": "Run",
+    "Application.Back_1629.executor": "Run",
     "Application.Back_1654_2.executor": "Run",
     "Application.Back_1920_1.executor": "Run",
     "Application.Back_1926_2.executor": "Run",
@@ -82,9 +83,23 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Back_1926_2">
+  <component name="RunManager" selected="Application.Back_1629">
+    <configuration name="Back_1003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Back_1003" />
+      <module name="AlgorithmStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Back_10799_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Back_10799_2" />
+      <module name="AlgorithmStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Back_1629" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Back_1629" />
       <module name="AlgorithmStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,27 +119,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Back_5648" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Back_5648" />
-      <module name="AlgorithmStudy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Back_array_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Back_array_test" />
-      <module name="AlgorithmStudy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Back_1629" />
+        <item itemvalue="Application.Back_1003" />
         <item itemvalue="Application.Back_1926_2" />
         <item itemvalue="Application.Back_2504" />
         <item itemvalue="Application.Back_10799_2" />
-        <item itemvalue="Application.Back_5648" />
-        <item itemvalue="Application.Back_array_test" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +172,9 @@
       <workItem from="1708693023820" duration="599000" />
       <workItem from="1708738847089" duration="602000" />
       <workItem from="1710640226455" duration="1564000" />
-      <workItem from="1710650955686" duration="782000" />
+      <workItem from="1710650955686" duration="2228000" />
+      <workItem from="1710685747449" duration="39000" />
+      <workItem from="1711266946517" duration="1367000" />
     </task>
     <servers />
   </component>
