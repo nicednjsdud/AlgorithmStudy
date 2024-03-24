@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a9135d2-9b2b-4dac-ac20-b381e3748ac3" name="변경" comment="변경">
-      <change afterPath="$PROJECT_DIR$/src/Back_1629.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Back_1629.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Back_1629.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
     "Application.Back_10816_1.executor": "Run",
     "Application.Back_11966.executor": "Run",
     "Application.Back_15688.executor": "Run",
-    "Application.Back_1629.executor": "Run",
+    "Application.Back_1629.executor": "Debug",
     "Application.Back_1654_2.executor": "Run",
     "Application.Back_1920_1.executor": "Run",
     "Application.Back_1926_2.executor": "Run",
@@ -174,7 +174,7 @@
       <workItem from="1710640226455" duration="1564000" />
       <workItem from="1710650955686" duration="2228000" />
       <workItem from="1710685747449" duration="39000" />
-      <workItem from="1711266946517" duration="1367000" />
+      <workItem from="1711266946517" duration="2402000" />
     </task>
     <servers />
   </component>

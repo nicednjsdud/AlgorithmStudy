@@ -18,7 +18,6 @@ public class Back_1629 {
     private static int pow(long a, long b, long c) {
         if( b == 1 ) return (int) (a % c);
         long val = pow(a, b / 2, c);
-        System.out.println(val);
         if( b % 2 == 0) return (int) ((val * val) % c);
         else return (int) (((val * val) % c) * a % c);
     }
