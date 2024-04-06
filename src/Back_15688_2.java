@@ -7,15 +7,13 @@ public class Back_15688_2 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int N = Integer.parseInt(br.readLine());
         int[] arr = new int[2000001];
-      
+
         for (int i = 0; i < N; i++) {
             arr[Integer.parseInt(br.readLine()) + 1000000]++;
         }
         for(int i = 0; i < arr.length; i++){
-            if(arr[i] != 0){
-                for(int j = 0; j < arr[i]; j++){
-                    System.out.println(i - 1000000);
-                }
+            while(arr[i]-- > 0){
+                System.out.println(i - 1000000);
             }
         }
     }
