@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a9135d2-9b2b-4dac-ac20-b381e3748ac3" name="변경" comment="변경">
-      <change afterPath="$PROJECT_DIR$/src/Back_2921.java" afterDir="false" />
-    </list>
+    <list default="true" id="4a9135d2-9b2b-4dac-ac20-b381e3748ac3" name="변경" comment="변경" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -199,7 +197,7 @@
       <workItem from="1717683184731" duration="1466000" />
       <workItem from="1717724209055" duration="599000" />
       <workItem from="1722435393545" duration="525000" />
-      <workItem from="1723385321321" duration="414000" />
+      <workItem from="1723385321321" duration="1205000" />
     </task>
     <servers />
   </component>
