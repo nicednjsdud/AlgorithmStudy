@@ -88,16 +88,16 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Back_2921">
-    <configuration name="Back_1408" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Back_1408" />
+  <component name="RunManager" selected="Application.Back_1076">
+    <configuration name="Back_1076" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Back_1076" />
       <module name="AlgorithmStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Back_15649" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Back_15649" />
+    <configuration name="Back_1408" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Back_1408" />
       <module name="AlgorithmStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -126,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Back_1076" />
         <item itemvalue="Application.Back_2921" />
         <item itemvalue="Application.Back_1408" />
         <item itemvalue="Application.Back_2495" />
         <item itemvalue="Application.Back_3460" />
-        <item itemvalue="Application.Back_15649" />
       </list>
     </recent_temporary>
   </component>
@@ -202,6 +202,7 @@
       <workItem from="1724337572473" duration="787000" />
       <workItem from="1724415819358" duration="7000" />
       <workItem from="1724455628209" duration="105000" />
+      <workItem from="1724597428120" duration="162000" />
     </task>
     <servers />
   </component>
