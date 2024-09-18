@@ -20,10 +20,10 @@ public class Back_1644 {
             if(!isPrime[i]) list.add(i);
         }
 
-        int en = 0, count = 0;
+        int count = 0;
         for(int st = 0; st < list.size(); st++){
             int sum = 0;
-            en = st;
+            int en = st;
             while(en < list.size() && sum < n){
                 sum += list.get(en);
                 en++;
