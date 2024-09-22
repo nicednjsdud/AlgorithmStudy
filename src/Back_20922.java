@@ -5,34 +5,46 @@ import java.util.StringTokenizer;
 
 public class Back_20922 {
     public static void main(String[] args) throws IOException {
+        // 입력을 받기 위한 BufferedReader 객체 생성
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
+        // 첫 번째 줄 입력: N은 배열의 길이, K는 숫자가 배열에서 나타날 수 있는 최대 빈도수
         StringTokenizer token = new StringTokenizer(br.readLine());
-        int N = Integer.parseInt(token.nextToken());
-        int K = Integer.parseInt(token.nextToken());
+        int N = Integer.parseInt(token.nextToken());  // 배열의 크기 N
+        int K = Integer.parseInt(token.nextToken());  // 배열의 각 숫자가 등장할 수 있는 최대 횟수 K
+
+        // 수열을 저장할 배열 선언
         int arr[] = new int[N];
+
+        // 두 번째 줄 입력: N개의 숫자를 배열에 저장
         token = new StringTokenizer(br.readLine());
-        for(int i = 0; i < N; i++) {
+        for (int i = 0; i < N; i++) {
             arr[i] = Integer.parseInt(token.nextToken());
         }
+
+        // 각 숫자의 등장 횟수를 저장할 배열 (숫자의 최대 범위는 1 ~ 100000)
+        int[] count = new int[100001];
+
+        // 최대 부분 수열의 길이를 저장할 변수와 두 포인터
         int max = 0;
+        int st = 0;
+        int en = 0;
 
-        for(int st = 0, en = 0; st < N; st++) {
-            int[] count = new int[100001];
-            count[arr[st]]++;
-            int len = 1;
-
-            while(en < N - 1) {
-                if(count[arr[en + 1]] < K) {
-                    count[arr[++en]]++;
-                    len++;
-                    max = Math.max(max, len);
-                } else {
-                    count[arr[st]]--;
-                    len--;
-                    st++;
-                }
+        // 투 포인터 사용
+        while (en < N) {
+            // 현재 수의 등장 횟수가 K보다 작거나 같으면 끝 포인터를 확장
+            if (count[arr[en]] < K) {
+                count[arr[en]]++;  // 숫자 카운트 증가
+                en++;  // 끝 포인터 확장
+                max = Math.max(max, en - st);  // 최대 길이 업데이트
+            } else {
+                // 만약 arr[en]이 이미 K번 등장했다면, 시작 포인터를 오른쪽으로 이동시킴
+                count[arr[st]]--;  // 시작 포인터가 가리키는 숫자의 카운트를 감소
+                st++;  // 시작 포인터를 오른쪽으로 이동
             }
         }
+
+        // 결과 출력: 조건을 만족하는 부분 수열의 최대 길이
         System.out.println(max);
     }
 }
