@@ -24,7 +24,7 @@ public class Back_2461 {
         }
         long answer = Long.MAX_VALUE;
         long max_value = -1;
-        
+
         PriorityQueue<long[]> pg = new PriorityQueue<>((a, b) -> Long.compare(a[0], b[0]));
         for(int i = 0; i < N; i++) {
             long value = classes.get(i).remove();
