@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a9135d2-9b2b-4dac-ac20-b381e3748ac3" name="변경" comment="변경">
-      <change afterPath="$PROJECT_DIR$/src/Back_6593.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Back_4179.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,9 +84,10 @@
     "Application.Back_2845.executor": "Run",
     "Application.Back_2921.executor": "Run",
     "Application.Back_3460.executor": "Run",
+    "Application.Back_4179.executor": "Run",
     "Application.Back_4562.executor": "Run",
     "Application.Back_5648.executor": "Run",
-    "Application.Back_6593.executor": "Debug",
+    "Application.Back_6593.executor": "Run",
     "Application.Back_7562.executor": "Run",
     "Application.Back_7562_2.executor": "Run",
     "Application.Back_7576_1.executor": "Debug",
@@ -108,7 +109,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Back_6593">
+  <component name="RunManager" selected="Application.Back_4179">
     <configuration name="Back_1075" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Back_1075" />
       <module name="AlgorithmStudy" />
@@ -123,15 +124,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Back_6593" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Back_6593" />
+    <configuration name="Back_4179" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Back_4179" />
       <module name="AlgorithmStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Back_7562" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Back_7562" />
+    <configuration name="Back_6593" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Back_6593" />
       <module name="AlgorithmStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -146,20 +147,13 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Back_4179" />
         <item itemvalue="Application.Back_6593" />
         <item itemvalue="Application.Back_1541" />
         <item itemvalue="Application.Back_1075" />
         <item itemvalue="Application.Back_7562_2" />
-        <item itemvalue="Application.Back_7562" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-11.0.22-corretto-11.0.22-3183f394aec4-fdae186d" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -246,7 +240,14 @@
       <workItem from="1739844658866" duration="7567000" />
       <workItem from="1739926672357" duration="3512000" />
       <workItem from="1740146673442" duration="1071000" />
-      <workItem from="1740373598001" duration="3537000" />
+      <workItem from="1740373598001" duration="4636000" />
+      <workItem from="1740449888911" duration="599000" />
+      <workItem from="1740462269719" duration="599000" />
+      <workItem from="1740529731331" duration="596000" />
+      <workItem from="1740536484025" duration="469000" />
+      <workItem from="1740548181160" duration="1000" />
+      <workItem from="1741096533915" duration="3855000" />
+      <workItem from="1741136125003" duration="2353000" />
     </task>
     <servers />
   </component>
@@ -278,26 +279,6 @@
           <properties class="java.util.EmptyStackException" package="java.util" />
           <option name="timeStamp" value="2" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Back_6593.java</url>
-          <line>61</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Back_6593.java</url>
-          <line>53</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Back_6593.java</url>
-          <line>55</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Back_6593.java</url>
-          <line>50</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
