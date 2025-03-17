@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a9135d2-9b2b-4dac-ac20-b381e3748ac3" name="변경" comment="변경">
-      <change afterPath="$PROJECT_DIR$/src/Back_2146.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Back_15650.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,69 +49,78 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Back_1003.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_1012_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_1075.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_1076.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_10799_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_10816_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_11728.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_11966.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_13144.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_1408.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_1541.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_15649.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_15683.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_15688.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_15688_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_1629.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Back_1644.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_1654_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_1697_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_1806.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_1920_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_1926_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_1926_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_2003.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_20922.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_2178_3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_2206.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Back_2295.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_2295_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_2495.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_2504.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_2845.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_2921.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_3460.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_4179.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_4562.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_5472.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_5648.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_6593.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_7562.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_7562_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Back_7576_1.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Back_array_test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/jeong-won-yeong/Documents/AlgorithmStudy&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Back_1003.executor": "Run",
+    "Application.Back_1012_2.executor": "Run",
+    "Application.Back_1075.executor": "Run",
+    "Application.Back_1076.executor": "Run",
+    "Application.Back_10799_2.executor": "Run",
+    "Application.Back_10816_1.executor": "Run",
+    "Application.Back_11728.executor": "Run",
+    "Application.Back_11966.executor": "Run",
+    "Application.Back_13144.executor": "Run",
+    "Application.Back_1408.executor": "Run",
+    "Application.Back_1541.executor": "Run",
+    "Application.Back_15649.executor": "Run",
+    "Application.Back_15650.executor": "Run",
+    "Application.Back_15683.executor": "Run",
+    "Application.Back_15688.executor": "Run",
+    "Application.Back_15688_2.executor": "Run",
+    "Application.Back_1629.executor": "Debug",
+    "Application.Back_1644.executor": "Run",
+    "Application.Back_1654_2.executor": "Run",
+    "Application.Back_1697_1.executor": "Run",
+    "Application.Back_1806.executor": "Run",
+    "Application.Back_1920_1.executor": "Run",
+    "Application.Back_1926_2.executor": "Run",
+    "Application.Back_1926_3.executor": "Run",
+    "Application.Back_2003.executor": "Run",
+    "Application.Back_20922.executor": "Run",
+    "Application.Back_2146.executor": "Run",
+    "Application.Back_2178_3.executor": "Run",
+    "Application.Back_2206.executor": "Debug",
+    "Application.Back_2295.executor": "Run",
+    "Application.Back_2295_2.executor": "Run",
+    "Application.Back_2495.executor": "Run",
+    "Application.Back_2504.executor": "Run",
+    "Application.Back_2845.executor": "Run",
+    "Application.Back_2921.executor": "Run",
+    "Application.Back_3460.executor": "Run",
+    "Application.Back_4179.executor": "Run",
+    "Application.Back_4562.executor": "Run",
+    "Application.Back_5472.executor": "Run",
+    "Application.Back_5648.executor": "Run",
+    "Application.Back_6593.executor": "Run",
+    "Application.Back_7562.executor": "Run",
+    "Application.Back_7562_2.executor": "Run",
+    "Application.Back_7576_1.executor": "Debug",
+    "Application.Back_array_test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/jeong-won-yeong/Documents/AlgorithmStudy",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Back_2146">
+}]]></component>
+  <component name="RunManager" selected="Application.Back_15650">
+    <configuration name="Back_15650" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Back_15650" />
+      <module name="AlgorithmStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Back_2146" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Back_2146" />
       <module name="AlgorithmStudy" />
@@ -140,20 +149,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Back_6593" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Back_6593" />
-      <module name="AlgorithmStudy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Back_15650" />
         <item itemvalue="Application.Back_2146" />
         <item itemvalue="Application.Back_2206" />
         <item itemvalue="Application.Back_5472" />
         <item itemvalue="Application.Back_4179" />
-        <item itemvalue="Application.Back_6593" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +261,9 @@
       <workItem from="1741737163803" duration="600000" />
       <workItem from="1741740864093" duration="623000" />
       <workItem from="1741833359948" duration="603000" />
-      <workItem from="1741929790073" duration="3413000" />
+      <workItem from="1741929790073" duration="5483000" />
+      <workItem from="1742132337999" duration="776000" />
+      <workItem from="1742214336142" duration="1516000" />
     </task>
     <servers />
   </component>
