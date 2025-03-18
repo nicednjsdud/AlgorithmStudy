@@ -4,30 +4,36 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 public class Back_15651 {
+
+    static int arr[];
+    static int N;
+    static int M;
+
+    static StringBuilder sb = new StringBuilder();
+
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
-        int N = Integer.parseInt(st.nextToken());
-        int M = Integer.parseInt(st.nextToken());
+        N = Integer.parseInt(st.nextToken());
+        M = Integer.parseInt(st.nextToken());
 
-        int[] arr = new int[M];
-        StringBuilder sb = new StringBuilder();
-        dfs(0, N, M, arr, sb);
+        arr = new int[M];
+        dfs(0);
+        System.out.println(sb);
     }
 
-    public static void dfs(int depth, int N, int M, int[] arr, StringBuilder sb) {
+    public static void dfs(int depth) {
         if (depth == M) {
             for (int i = 0; i < M; i++) {
                 sb.append(arr[i] + " ");
             }
-            sb.append("\n");
-            System.out.print(sb);
+            sb.append('\n');
             return;
         }
 
         for (int i = 1; i <= N; i++) {
             arr[depth] = i;
-            dfs(depth + 1, N, M, arr, sb);
+            dfs(depth + 1);
         }
     }
 }
