@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a9135d2-9b2b-4dac-ac20-b381e3748ac3" name="변경" comment="변경">
+      <change afterPath="$PROJECT_DIR$/src/Back_15652.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Back_15651.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Back_15651.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +65,7 @@
     "Application.Back_15649.executor": "Run",
     "Application.Back_15650.executor": "Run",
     "Application.Back_15651.executor": "Run",
+    "Application.Back_15652.executor": "Run",
     "Application.Back_15683.executor": "Run",
     "Application.Back_15688.executor": "Run",
     "Application.Back_15688_2.executor": "Run",
@@ -114,7 +115,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Back_15651">
+  <component name="RunManager" selected="Application.Back_15652">
     <configuration name="Back_15650" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Back_15650" />
       <module name="AlgorithmStudy" />
@@ -124,6 +125,13 @@
     </configuration>
     <configuration name="Back_15651" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Back_15651" />
+      <module name="AlgorithmStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Back_15652" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Back_15652" />
       <module name="AlgorithmStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -143,20 +151,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Back_5472" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Back_5472" />
-      <module name="AlgorithmStudy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Back_15652" />
         <item itemvalue="Application.Back_15651" />
         <item itemvalue="Application.Back_15650" />
         <item itemvalue="Application.Back_2146" />
         <item itemvalue="Application.Back_2206" />
-        <item itemvalue="Application.Back_5472" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +266,8 @@
       <workItem from="1741929790073" duration="5483000" />
       <workItem from="1742132337999" duration="776000" />
       <workItem from="1742214336142" duration="2157000" />
-      <workItem from="1742305470069" duration="1055000" />
+      <workItem from="1742305470069" duration="1720000" />
+      <workItem from="1743510607021" duration="1025000" />
     </task>
     <servers />
   </component>
