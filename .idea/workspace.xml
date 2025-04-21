@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a9135d2-9b2b-4dac-ac20-b381e3748ac3" name="변경" comment="변경">
-      <change afterPath="$PROJECT_DIR$/src/Back_15655.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Back_15656.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +68,7 @@
     "Application.Back_15652.executor": "Run",
     "Application.Back_15654.executor": "Run",
     "Application.Back_15655.executor": "Run",
+    "Application.Back_15656.executor": "Run",
     "Application.Back_15683.executor": "Run",
     "Application.Back_15688.executor": "Run",
     "Application.Back_15688_2.executor": "Run",
@@ -122,14 +123,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Back_15655">
-    <configuration name="Back_15650" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Back_15650" />
-      <module name="AlgorithmStudy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Back_15656">
     <configuration name="Back_15651" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Back_15651" />
       <module name="AlgorithmStudy" />
@@ -158,13 +152,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Back_15656" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Back_15656" />
+      <module name="AlgorithmStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Back_15656" />
         <item itemvalue="Application.Back_15655" />
         <item itemvalue="Application.Back_15654" />
         <item itemvalue="Application.Back_15652" />
         <item itemvalue="Application.Back_15651" />
-        <item itemvalue="Application.Back_15650" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +281,10 @@
       <workItem from="1744422526202" duration="560000" />
       <workItem from="1744506993696" duration="598000" />
       <workItem from="1744591853118" duration="585000" />
-      <workItem from="1744625026795" duration="1478000" />
+      <workItem from="1744625026795" duration="2174000" />
+      <workItem from="1744686821885" duration="598000" />
+      <workItem from="1744766487069" duration="583000" />
+      <workItem from="1745201210321" duration="1277000" />
     </task>
     <servers />
   </component>
